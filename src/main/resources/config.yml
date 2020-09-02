@@ -1,0 +1,27 @@
+######################
+##     ChatPing     ##
+######################
+
+
+# Message to send to person who gets pinged #
+pingedMessage: '&8You have been pinged by &6&l%pinger%!'
+
+
+# In the quotes is what you put after '@' to ping that group #
+ownerID: 'Owner'
+developerID: 'Developer'
+adminID: 'Admin'
+moderatorID: 'Moderator'
+helperID: 'Helper'
+donatorID-1: 'Donator1'
+donatorID-2: 'Donator2'
+donatorID-3: 'Donator3'
+donatorID-4: 'Donator4'
+donatorID-5: 'Donator5'
+
+
+
+# CoolDownTime #
+#  In seconds  #
+
+time: 10

@@ -1,0 +1,4 @@
+name: Chatping
+version: ${project.version}
+main: me.luminescence.chatping.Main
+api-version: 1.16
